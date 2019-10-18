@@ -1,10 +1,10 @@
 ---
 template: post
 title: The State of <strong>Catalyst Coin</strong> October 1st, 2019
-date: 2019-06-01
+date: 2019-10-01
 author: n8tb1t
 draft: false
-slug: /blog/2019-06-01/catalyst_coin_october_1st_2019/
+slug: /blog/2019-10-01/catalyst_coin_october_1st_2019/
 titleImage: ./images/main.jpeg
 titleImageCC: "Photographer: <a target=blank href=https://stocksnap.io/author/icons8>Icons8 team</>"
 category: news
@@ -14,7 +14,7 @@ tags:
   - "info"
 ---
 
-	
+
 Since I was a kid, I’ve had a great passion for computers and tech in general, but I understood pretty early on that if you want these things you need money. So I started to save up for my first computer; a Commodore 64.
 
 ![Commodore 64](./images/comodore.jpeg "Commodore 64")
@@ -23,7 +23,7 @@ Almost every kid I knew dreamed about it. Long story short, at some point I deci
 
 So, let’s roll, this is a long-awaited article that I have long wanted to write, but you know how it is, there are always so many things to do and the time is limited, there is a Hebrew saying:
 
->לַכֹּל זְמָן וְעֵת לְכָל-חֵפֶץ תַּחַת הַשָּׁמָיִם   
+>לַכֹּל זְמָן וְעֵת לְכָל-חֵפֶץ תַּחַת הַשָּׁמָיִם  
 עֵת לָלֶדֶת וְעֵת לָמוּת עֵת לָטַעַת וְעֵת לַעֲקוֹר נָטוּע  
 עֵת לַהֲרוֹג וְעֵת לִרְפּוֹא עֵת לִפְרוֹץ וְעֵת לִבְנוֹת  
 עֵת לִבְכּוֹת וְעֵת לִשְׂחוֹק עֵת סְפוֹד וְעֵת רְקוֹד  
@@ -73,9 +73,9 @@ Our fellow developer from **`BTCMZ`**, Bobbie, is implementing this feature so i
 
 Currently, we are using lz4 compression algorithm to minimize the size of the blockchain database, it’s a good algo, but zstd will give us a better compression ratio, allowing us to reduce the overall size of the blockchain.
 
-**Zstandard** (or **zstd**) is a 
-[lossless data compression](https://en.wikipedia.org/wiki/Data_compression "lossless data compression") 
-algorithm developed by 
+**Zstandard** (or **zstd**) is a
+[lossless data compression](https://en.wikipedia.org/wiki/Data_compression "lossless data compression")
+algorithm developed by
 [Yann Collet](https://twitter.com/cyan4973 "Yann Collet") at Facebook.
 
 ![zstd](./images/compression.png "zstd")
@@ -98,8 +98,8 @@ Also, 600000 difficulty is okay as well for 100 H/s worker, they will be finding
 
 ## New web wallet.
 
-We are now listed on the 
-[SpookyPool web wallet](https://spookypool.nl/ "web wallet"), 
+We are now listed on the
+[SpookyPool web wallet](https://spookypool.nl/ "web wallet"),
 so miners can mine directly to this web wallet and then withdraw to exchanges. This will help people who don’t want to deal with CLI wallets and blockchain sync.
 
 ![web wallet](./images/webwallet.png "web wallet")
@@ -117,7 +117,7 @@ One of our community members the @TheGoldenSparrow. Created a blog about Catalys
 
 ## Catalyst wallpapers.
 
-Now you can get amazing wallpapers with the Catalyst logo for your mobile device at 
+Now you can get amazing wallpapers with the Catalyst logo for your mobile device at
 [www.cat7.network,](https://www.cat7.network/2019/09/14/general_information/mobile-wallpaper/ "Cat 7")
 
 ![wallpapers](./images/wallpaper.jpg "wallpapers")
@@ -128,8 +128,8 @@ or desktop at [www.cryptunit.com.](https://www.cryptunit.com/coin/CX "cryptunit"
 
 ![Reddit](./images/reddit.png "Reddit")
 
-We redesigned our 
-[Reddit hub](https://www.reddit.com/r/CatalystHub/ "Reddit hub") 
+We redesigned our
+[Reddit hub](https://www.reddit.com/r/CatalystHub/ "Reddit hub")
 by adding a Catalyst flavor to it and filling it with content. Feel free to join it and take part in the community life by asking questions and sharing your thoughts.
 
 ## [The website proposal.](https://funding.cryptocatalyst.net/proposal/7 "website proposal")
@@ -141,11 +141,11 @@ I think Catalyst as a community needs a unique site that will host under its umb
 
 ![New Site](./images/site.png "New Site")
 
-You can read about the site requirements on the 
-[proposal page](https://funding.cryptocatalyst.net/proposal/7 "website proposal") 
+You can read about the site requirements on the
+[proposal page](https://funding.cryptocatalyst.net/proposal/7 "website proposal")
 . 80K CX was raised and the work is already in action.
 
-## Market Analysis: 
+## Market Analysis:
 
 ![Market Analysis](./images/market.png "Market Analysis")
 
@@ -161,15 +161,15 @@ But for these things to happen we need time and good developers, thus the fundin
 
 ![cx-pool](./images/pool.png "cx-pool")
 
-We are launching 2 new pools this week on our new powerful server, one for CX only mining, and one merged with BTCMZ, 
-though the latest one is currently down due to BTCMZ network issues, once fixed, we will bring it up. 
-Currently you can distribute your hash to 
-[cx-pool.gq](https://cx-pool.gq/ "cx-pool.gq") 
+We are launching 2 new pools this week on our new powerful server, one for CX only mining, and one merged with BTCMZ,
+though the latest one is currently down due to BTCMZ network issues, once fixed, we will bring it up.
+Currently you can distribute your hash to
+[cx-pool.gq](https://cx-pool.gq/ "cx-pool.gq")
 
 ## Triple mining CX+BTCMZ+NINJA (CX+BTCMZ+TURTL)
 
-I was talking with **Campurro**, the owner of the **minercountry.com** 
-and the author of the **triple merged mining pool**, and he is ready 
+I was talking with **Campurro**, the owner of the **minercountry.com**
+and the author of the **triple merged mining pool**, and he is ready
 to make a pool for us to mine **CX** with **BTCMZ** and **NinjaCoin**.
 
 > What I’m afraid of is that this will concentrate all the hashrate on one pool, and our chain will become unstable.
@@ -182,7 +182,7 @@ Thus, we need to think! Do we want the pool like this, running on closed softwar
 
 ## Community.
 
-Our community is constantly getting bigger, this week we are welcoming 5 new members 
+Our community is constantly getting bigger, this week we are welcoming 5 new members
 **Brendyn**, **erohal2000**, **QCTLG**, **Rogerrobers** and **xav**, we want to thank you guys for taking active participation in Catalyst’s life!
 
 ## Fun Facts.
@@ -199,14 +199,17 @@ If you have any questions about launching the miner on a raspberryPi, or any oth
 
 ## Donations:
 
-**n8tb1t wallets:**
+> Although your support is very important to us, we only encourage you to donate if the overall amount won’t hurt your budget in any possible way.
+
+**[n8tb1t wallets:](https://github.com/n8tb1t "n8tb1t")**
 
 - **CX:** cat18x93ufCQWaX4f8f2c2fZ8Ku2A4VTcgEoSpweiDbgEBF9i7YA2XGX1dSR7UbguQU5UKYEXyjfaTfnJBmRhHju26n8Y9AAFx
 - **BTC:** 36VwDGtowfkNQtyxBMyFUjN2wt2sxu2RGv
 - **LTC:** MQRfMkxgYZ9egfyKt7qKfZjdHyQd2YpKxP
 - **ETH:** 0xa2f66d4ab76c4ce740321dd72cde48866219b35c
 
-**dirtybits wallets:**
+**[dirtybits wallets:](https://github.com/dirtybits "dirtybits")**
+
 - **CX:** cat1Az2Xwt4byGrYeiKwxacV2pMahz7JaFPqW7eLbFPDP9kKT4rYMMq428KsZMbv8xK44j3dKBvaZW1VGzX4WVvb4R8ndN6WnD
 - **BTC:** 163EWRkXkFa22Q7Xv51gumcDKYK5ymLKeG
 - **LTC:** LdEzvruDTcANXYcQmXmTpUSKiWWfpaP3Ar
