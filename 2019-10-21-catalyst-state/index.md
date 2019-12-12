@@ -3,10 +3,10 @@ template: post
 title: The State of <strong>Catalyst Coin</strong> October 21st, 2019
 date: 2019-10-21
 author: n8tb1t
-draft: false
+draft: true
 slug: /blog/2019-10-21/catalyst_coin_october_21st_2019/
 titleImage: ./images/main.jpeg
-titleImageCC: "Photo by: <a target=blank href=https://unsplash.com/@launchpresso>Launchpresso</>"
+titleImageCC: "Photo by: <a target=blank href=https://unsplash.com/@launchpresso>Launchpresso</a>"
 category: news
 tags:
   - "crypto"

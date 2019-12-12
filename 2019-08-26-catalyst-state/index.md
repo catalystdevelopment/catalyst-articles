@@ -6,7 +6,7 @@ author: n8tb1t
 draft: false
 slug: /blog/2019-08-26/catalyst_coin_august_26th_2019/
 titleImage: ./images/main.jpeg
-titleImageCC: "Photo by: <a target=blank href=https://unsplash.com/photos/TZCppMjaOHU>William White</>"
+titleImageCC: "Photo by: <a target=blank href=https://unsplash.com/photos/TZCppMjaOHU>William White</a>"
 category: news
 tags:
   - "crypto"

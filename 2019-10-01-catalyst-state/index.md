@@ -6,7 +6,7 @@ author: n8tb1t
 draft: false
 slug: /blog/2019-10-01/catalyst_coin_october_1st_2019/
 titleImage: ./images/main.jpeg
-titleImageCC: "Photographer: <a target=blank href=https://stocksnap.io/author/icons8>Icons8 team</>"
+titleImageCC: "Photographer: <a target=blank href=https://stocksnap.io/author/icons8>Icons8 team</a>"
 category: news
 tags:
   - "crypto"
